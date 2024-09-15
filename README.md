@@ -7,4 +7,4 @@ The full code will be made available after the paper is accepted. For now, we ar
 Run `test.py` to test.
 
 # Acknowledgement
-Great thanks to the code of the [CCAM]([https://github.com/YudeWang/SEAM](https://github.com/CVI-SZU/CCAM)).
+Great thanks to the code of [CCAM](https://github.com/CVI-SZU/CCAM).
