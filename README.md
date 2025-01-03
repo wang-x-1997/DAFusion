@@ -1,7 +1,6 @@
 # DAFusion
-Source code of the paper "A Degradation-Aware Guided Fusion Network for Infrared and Visible Image"
-
-The full code will be made available after the paper is accepted. For now, we are providing the pre-trained model for comparison and validation.
+Source code of the paper ***A Degradation-Aware Guided Fusion Network for Infrared and Visible Image*** which has been accepted by INF FUS.
+- Xue Wang, Wenhua Qian, Zheng Guan, Jinde Cao, RunZhuo Ma
 
 # test
 Run `test.py` to test.
