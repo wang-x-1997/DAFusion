@@ -150,7 +150,7 @@ model_F = torch.load(model_path_F)
 print(count_parameters_in_MB(model_D)+count_parameters_in_MB(model_E)+count_parameters_in_MB(model_F))
 image_A_list = prepare_data(r'D:\Image_Data\IRVI\AUIF Datasets\16x\Test_FLIR/')
 image_B_list = prepare_data1(r'D:\Image_Data\IRVI\AUIF Datasets\16x\Test_FLIR/')
-save_path = "./Fused/"
+save_path = "./Output/"
 if os.path.exists(save_path):
     pass
 else:
