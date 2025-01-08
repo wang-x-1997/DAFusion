@@ -22,7 +22,22 @@ Then, the fused results will be saved in the ```'./Output/'``` folder.
 # :triangular_flag_on_post: Training
 You can change your own data address in ```dataset.py``` and use ```train.py``` to retrain the method.
 
-
+# :triangular_flag_on_post: Citation
+If this work is helpful to you, please cite it as:
+```bibtex
+@article{WANG2025102931,
+title = {A degradation-aware guided fusion network for infrared and visible image},
+journal = {Information Fusion},
+pages = {102931},
+year = {2025},
+issn = {1566-2535},
+doi = {https://doi.org/10.1016/j.inffus.2025.102931},
+url = {https://www.sciencedirect.com/science/article/pii/S1566253525000041},
+author = {Xue Wang and Zheng Guan and Wenhua Qian and Jinde Cao and Runzhuo Ma and Cong Bi},
+keywords = {Image fusion, Contrastive learning, Unpaired image training mechanism, Anti-degeneration},
+abstract = {Most IVIF methods focus solely on visual feature fusion, neglecting degraded scene information, which results in suboptimal solutions that do not fully reflect implicit scene information. To tackle the challenge, we develop a degradation-aware fusion network for infrared and visible images. By learning implicit degradation estimation, our model not only effectively integrates complementary information from source images but also strengthens its robustness against scene degradation. Our method assumes that all source images contain varying degrees of degradation. Based on this assumption, we construct stable positive samples and dynamic negative samples using encoder variants and high-quality, degradation-free images, thus driving the model to identify and optimize degradations in the source images during contrastive learning of unpaired representation features. Additionally, the co-refinement fusion module (CrFM) exploits the interdependence between representation features and source information, enabling it to mine specialized information within each source and complementary information across sources. This facilitates effective feature aggregation while mitigating information loss during fusion. To further enhance the model, we introduce image-level saliency masks and feature-level energy variation masks to reduce the solution domain, encouraging the model to prioritize intrinsic source content, especially details obscured by degradation. Extensive experiments on static data statistics and high-level vision tasks validate the superiority of the proposed method, and its robust anti-degradation capability makes it more stable than other SOTA methods when facing unknown degradations. The code has been released publicly.}
+}
+```
 
 
 ## 🚀 Related Work
