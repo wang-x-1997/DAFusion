@@ -1,5 +1,6 @@
 # DAFusion
 Source code of the paper ***A Degradation-Aware Guided Fusion Network for Infrared and Visible Image*** which has been accepted by INF FUS.
+- [Ppaer]([https://ieeexplore.ieee.org/document/10682806](https://www.sciencedirect.com/science/article/pii/S1566253525000041))
 - Xue Wang, Wenhua Qian, Zheng Guan, Jinde Cao, RunZhuo Ma, and Cong Bi
 
 # Abstract
