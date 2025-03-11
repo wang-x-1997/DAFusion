@@ -41,7 +41,7 @@ abstract = {Most IVIF methods focus solely on visual feature fusion, neglecting 
 
 
 ## 🚀 Related Work
-- Xue Wang, Wenhua Qian, Zheng Guan, Jinde Cao, RunZhuo Ma, Chengchao Wang. *A Retinex Decomposition Model-Based Deep Framework for Infrared and Visible Image Fusion*. ***JSTSP 2024***, [[Ppaer](https://ieeexplore.ieee.org/document/10682806), [Code](https://github.com/wang-x-1997/RDMFuse)] 
+- Xue Wang, Wenhua Qian, Zheng Guan, Jinde Cao, RunZhuo Ma, Chengchao Wang. *A Retinex Decomposition Model-Based Deep Framework for Infrared and Visible Image Fusion*. ***JSTSP 2025***, [[Ppaer](https://ieeexplore.ieee.org/document/10682806), [Code](https://github.com/wang-x-1997/RDMFuse)] 
 - Xue Wang, Zheng Guan, Wenhua Qian, Jinde Cao, Shu Liang, Jin Yan. *CS²Fusion: Contrastive learning for Self-Supervised infrared and visible image fusion by estimating feature compensation map*. ***INF FUS 2024***, [Ppaer](https://www.sciencedirect.com/science/article/abs/pii/S156625352300355X)
 - Xue Wang, Zheng Guan, Wenhua Qian, Jinde Cao, Chengchao Wang, Runzhuo Ma. *STFuse: Infrared and Visible Image Fusion via Semisupervised Transfer Learning*. ***TNNLS 2024***, [Ppaer](https://ieeexplore.ieee.org/abstract/document/10312808)
 - Xue Wang, Zheng Guan, Wenhua Qian, Jinde Cao, Chengchao Wang, Chao Yang.  *Contrast saliency information guided infrared and visible image fusion*. ***TCI 2023***, [Ppaer](https://ieeexplore.ieee.org/abstract/document/10223277)
